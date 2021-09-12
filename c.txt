@@ -1,11 +1,4 @@
 file c 
 cccc5558888888
 ccc9999999eee
-<<<<<<< HEAD
 1111
-
-3333
-444
-=======
-1111
->>>>>>> parent of c014c31 (feat: add 333 in c.txt)
